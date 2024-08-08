@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1723098519715,
+  "timestamp": 1723098875990,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-XVDL4SAX.js",
+        "/main-6E2YXM5X.js",
         "/manifest.webmanifest",
         "/polyfills-SCHOHYNV.js",
         "/styles-5INURTSO.css"
@@ -37,8 +37,8 @@
   "hashTable": {
     "/favicon.ico": "4f27b3464fca26cba5d061702b924597b2260f4f",
     "/icons/icon-72x72.png": "d0bccc8f98b960a068e71ca467d111504be395f7",
-    "/index.html": "9f59942ee0bd458247d259e9371a96dcb823e772",
-    "/main-XVDL4SAX.js": "994702344ccbd20d36dae02e7065fd006ffcadc9",
+    "/index.html": "b2a00ab3a577d063ee3838410e9bcfe5bdfea6be",
+    "/main-6E2YXM5X.js": "fd4c3acf92468263ae7d1b58e41b80385a27e7fb",
     "/manifest.webmanifest": "1c309a6c511258768377ffc5950a4038ba7e9cff",
     "/polyfills-SCHOHYNV.js": "d45c76c5960bab3ace7fd6d211b9579456241f8a",
     "/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
